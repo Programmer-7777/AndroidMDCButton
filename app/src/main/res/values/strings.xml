@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidFAB</string>
+    <string name="rasm">rasm</string>
+    <string name="add_user">Add User</string>
+    <string name="textview">Add New contact</string>
+    <string name="btn2">btn2</string>
+</resources>
